@@ -6,3 +6,17 @@ public class B {
  System.out.println("Hello");
     }
 }
+
+
+public class B {
+    public static void main(String[] args){
+
+ System.out.println("Hello");
+    }
+}
+public class B {
+    public static void main(String[] args){
+
+ System.out.println("Hello");
+    }
+}
